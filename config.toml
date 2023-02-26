@@ -19,11 +19,6 @@ theme = "hallo-hugo"
     url = "https://github.com/sandernaus"
   [[params.links]]
     iconset = "fas"
-    icon = "coffee"
-    title = "Coffee"
-    url = "https://www.buymeacoffee.com/sandernaus"
-  [[params.links]]
-    iconset = "fas"
     icon = "envelope"
     title = "E-mail"
     url = "mailto:info@sandernaus.com"
