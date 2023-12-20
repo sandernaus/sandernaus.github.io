@@ -17,9 +17,3 @@ theme = "hallo-hugo"
     icon = "github"
     title = "Github"
     url = "https://github.com/sandernaus"
-  [[params.links]]
-    iconset = "fas"
-    icon = "envelope"
-    title = "E-mail"
-    url = "mailto:info@sandernaus.com"
-
